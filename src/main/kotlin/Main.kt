@@ -10,6 +10,8 @@ fun main(args: Array<String>) {
 
     println(noOfReccePeanutCup in if (isWeekend) 15..25 else 10..20)
 
+    // token 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
+
 }
 
 
